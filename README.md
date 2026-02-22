@@ -1,4 +1,4 @@
-## 👋Hello,am carl, am dedicated Software developer, the core founder of XTR Softwares.
+## 👋Hello,am carl, a dedicated Software developer and  the core founder of XTR Softwares.
 
 
 # 💻 Tech Stack:
