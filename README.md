@@ -21,9 +21,7 @@
   <img src="https://streak-stats.demolab.com?user=carl24tech&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carl24tech&theme=monokai" alt="profile details" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carl24tech&theme=monokai" alt="repos per language" />
