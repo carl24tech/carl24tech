@@ -31,7 +31,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
-## 🧠 FUN FACT: I'M STILL LEARNING:
+## I'M STILL LEARNING:
 - 🐍 Python
 - 💎 Ruby
 - 🐹 Go
