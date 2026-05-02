@@ -17,9 +17,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carl24tech&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carl24tech&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" alt="GitHub Streak" />
-</p>
+
 
 
 
