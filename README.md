@@ -1,4 +1,4 @@
-## 👋 Hello, I'm carl, a dedicated Software developer and the core founder of XTR Softwares.
+## 👋 Hello, I'm carl, a dedicated Software developer and the Founder of XTR Softwares.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
