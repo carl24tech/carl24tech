@@ -1,6 +1,6 @@
-## 👋 Hello, I'm carl, a dedicated Software developer and the Founder of XTR Softwares.
+## Okay so...... Welcome here!!
 
-# 💻 Tech Stack:
+# My Tech Stack if you Care:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -11,7 +11,7 @@
 ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats
+# This is How I Code Daily if you Care!
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carl24tech&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
@@ -26,15 +26,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carl24tech&theme=monokai" alt="most commit language" />
 </p>
 
-### ✍️ Random Dev Quote
+### A developer Once Said
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
 ## I'M STILL LEARNING:
-- 🐍 Python
-- 💎 Ruby
-- 🐹 Go
-- 🎯 Dart
-- 📦 Vanilla JS
+-  Python
+-  Ruby
+-  Go
+-  Dart
+-  Vanilla JS
 - And some more languages...
